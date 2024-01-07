@@ -1,2 +1,8 @@
 # AI-Voice-Assistants-Review-Analysis
 Analyzing product reviews of AI voice assistants - Apple, Amazon and Google
+
+Executive Summary:
+
+With the continuous increase in development in AI, it is essential to look at how they can be improved. One of the most prominent AI technologies currently are virtual voice assistants namely Amazon Echo, Apple Homepod and Google Home. For any product improvement customer feedback is important. Since most of the products are bought online, we can analyze the reviews posted by the customers to get insights not only related to product performance but main talking points about each product.
+We gathered reviews for virtual voice assistants mentioned above from BestBuy. The analysis is done is two major aspects. First, rating prediction using NLP and Machine Learning techniques. Secondly, Topic Modeling using NLP visualizations. The performance of various NLP techniques such as different BERT Embeddings and TF-IDF embeddings are compared to get an accurate model. Important features we used include embeddings from NLP pre trained models, Luke features, POS counts, and the duration for which the product was owned for ranging from less than a week to more than 2 years.
+The data asked for a classification approach, however some regression approached were also used, keeping in mind the general applications of our findings. The results we gathered from our algorithms have a good performance giving approximately 80% accuracy, however much difference was not seen amongst performance of different NLP pre-trained models. In terms of Topic Modeling, useful insights were found such as what do people talk about matters a lot on for how long they have owned the product.
